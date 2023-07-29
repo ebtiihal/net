@@ -1,0 +1,14 @@
+.box
+{
+   
+    
+    margin-bottom: 20px;
+
+
+    background-size: 10px;
+    height:30px;
+    border: 5px solid #c29292; /* إعطاء حدود للمربع */
+    padding: 20px; /* إضافة تباعد داخلي داخل المربع */
+    border-radius: 50px; /* إضافة زوايا مستديرة للمربع */
+    font-size: 5px;
+}
